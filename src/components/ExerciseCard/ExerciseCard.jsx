@@ -11,7 +11,7 @@ function ExerciseCard({ exercise }) {
           sx={{
             ml: "21px",
             color: "#fff",
-            backgroundColor: "#ffa9a9",
+            backgroundColor: "#6D8B74",
             fontSize: "14px",
             borderRadius: "20px",
             textTransform: "capitalize",
@@ -22,8 +22,8 @@ function ExerciseCard({ exercise }) {
         <Button
           sx={{
             ml: "21px",
-            color: "#fff",
-            backgroundColor: "#fcc757",
+            color: "#000",
+            backgroundColor: "#EFEAD8",
             fontSize: "14px",
             borderRadius: "20px",
             textTransform: "capitalize",

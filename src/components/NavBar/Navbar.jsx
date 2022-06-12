@@ -28,7 +28,7 @@ function Navbar() {
           style={{
             textDecoration: "none",
             color: "#3A1212",
-            borderBottom: "3px solid #FF2625",
+            borderBottom: "3px solid #6D8B74",
           }}
         >
           Home

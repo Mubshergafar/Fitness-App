@@ -11,7 +11,7 @@ function HeroBanner() {
       position="relative"
       p="20px"
     >
-      <Typography color="#FF2625" fontWeight="600" fontSize="26px">
+      <Typography color="#6D8B74" fontWeight="600" fontSize="26px">
         Fitness Club
       </Typography>
       <Typography
@@ -29,13 +29,13 @@ function HeroBanner() {
         variant="contained"
         color="error"
         href="#exercises"
-        sx={{ backgroundColor: "#ff2625", padding: "15px" }}
+        sx={{ backgroundColor: "#6D8B74", padding: "15px" }}
       >
         Explore Exercises
       </Button>
       <Typography
         fontWeight="600"
-        color="#FF2625"
+        color="#6D8B74"
         sx={{ opacity: 0.1, display: { lg: "block", xs: "none" } }}
         fontSize="200px"
       >

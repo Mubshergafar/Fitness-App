@@ -5,6 +5,9 @@ import SearchExercices from "./SearchExercices";
 import Exercises from "./Exercises";
 import HorizontalScrollbar from "./HorizontalScrollbar";
 import BodyPart from "./BodyPart";
+import Detail from "./Detail";
+import ExerciseVedios from "./ExerciseVedios";
+import SimilarExercises from "./SimilarExercises";
 
 export {
   Navbar,
@@ -14,4 +17,7 @@ export {
   SearchExercices,
   Exercises,
   HorizontalScrollbar,
+  Detail,
+  ExerciseVedios,
+  SimilarExercises,
 };
