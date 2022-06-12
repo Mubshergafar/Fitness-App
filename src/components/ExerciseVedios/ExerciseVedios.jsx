@@ -8,7 +8,7 @@ function ExerciseVedios({ exerciseVideos, name }) {
     <Box sx={{ marginTop: { lg: "200px", xs: "20px" } }} p="20px">
       <Typography variant="h3" mb="33px">
         Watch{" "}
-        <span style={{ color: "#ff2526", textTransform: "capitalize" }}>
+        <span style={{ color: "#DF7861", textTransform: "capitalize" }}>
           {name}
         </span>{" "}
         exercise videos
